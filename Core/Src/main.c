@@ -70,7 +70,7 @@ int main(void)
   int b = 0;
   int d = 0;
 
-  int f = 0;
+  int g = 0;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
