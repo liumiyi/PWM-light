@@ -67,10 +67,6 @@ int main(void)
 
   /* USER CODE BEGIN 1 */
   int a = 0;
-  int b = 0;
-  int d = 0;
-
-  int g = 0;
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
